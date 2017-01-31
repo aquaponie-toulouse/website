@@ -35,11 +35,32 @@
 	(<a href="https://doodle.com/poll/9hrrskcymn8ggzvrph7pcdxs/admin?tmail=poll_admin_adminlink&tlink=adminbtn">lien admin </a>)<br/>
 	<br/>
 	
-	AJOUTER VISUALISATION GOOGLE AGENDA ATA
+	<h3>GOOGLE AGENDA ATA</h3>
 	<iframe src="https://calendar.google.com/calendar/embed?title=Agenda%20de%20l%27Association%20Toulousaine%20d%27Aquaponie&amp;showTz=0&amp;mode=WEEK&amp;height=500&amp;wkst=2&amp;hl=fr&amp;bgcolor=%23ccffff&amp;src=admin%40aquaponie-toulouse.fr&amp;color=%231B887A&amp;src=%23contacts%40group.v.calendar.google.com&amp;color=%23853104&amp;src=aquaponie-toulouse.fr_3tpgqb7kp6378h09kg286oqghk%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=Europe%2FParis" style="border:solid 1px #777" width="800" height="500" frameborder="0" scrolling="no">
 	</iframe>
-	</br>
+	</br></br>
+	
+	<!-- Affichage Google group
+	<h3>GOOGLE GROUPE-COEUR ATA</h3>
+	<iframe id="forum_embed" src="javascript:void(0)"  scrolling="no"
+		frameborder="0"	width="900" height="700">
+	</iframe>
+	<script type="text/javascript">
+	  document.getElementById('forum_embed').src =
+		 'https://groups.google.com/a/aquaponie-toulouse.fr/forum/embed/?place=forum/groupe-coeur'
+		 + '&showsearch=true&showpopout=true&showtabs=false'
+		 + '&parenturl=' + encodeURIComponent(window.location.href);
+	</script>
+	</br> -->
+		
 	<!-- Liens Gestion de tâches -->
+	<iframe src="https://docs.google.com/spreadsheets/d/1kTfDnDQ--QqfTjyBUoZC9iqPysXaJ7hrG8pFjxmWg5M/pubhtml?gid=388292858&amp;single=false&amp;widget=true&amp;headers=false"
+	width="800" height="600">
+	</iframe>
+	<br>
+	<a href="https://docs.google.com/spreadsheets/d/1kTfDnDQ--QqfTjyBUoZC9iqPysXaJ7hrG8pFjxmWg5M/edit?usp=sharing" >=> MODIFICATION DU FICHIER DE TÂCHES </a><br/>
+	<br/>
+	
 	<a href="http://www.evernote.com/l/AQikm3EcsXBHOoeOLF80EZ-Q1by-XKSeF40/" >=> GESTION PROJET EVERNOTE </a><br/>
 	<br/>
 	<!--
@@ -79,7 +100,14 @@
 		</li><br/>
 		<li></li><br/>
 	</ul>
-	
+
+	<h2>LES SITES DE l'ATA:</h2>	
+	<!-- Affichage Google maps -->
+	<iframe src="https://www.google.com/maps/d/embed?mid=1z17r8JH3ktkiU3kMbGgnE3yIy-E" 
+	width="640" height="480">
+	</iframe>
+	</br>
+
 	
 	<!-- Schémas aquaponie
 	<img src="img/Schema-aquaponie-Elisa_Desque-v0.1.png" title="ATA-schéma_aquaponie-Elisa_DESQUE" alt="Fichier absent !" height="1103" width="1418" >
